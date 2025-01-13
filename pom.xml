@@ -19,6 +19,11 @@
     <artifactId>spring-web</artifactId>
     <version>6.2.1</version>
 </dependency>
+<dependency>
+    <groupId>org.bitbucket.abdysamat</groupId>
+    <artifactId>springcore</artifactId>
+    <version>1.2.3-RELEASE</version>
+</dependency>
   </dependencies>
   <build>
     <finalName>maven-web-app</finalName>
